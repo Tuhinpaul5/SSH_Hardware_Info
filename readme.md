@@ -1,14 +1,16 @@
+### 1. Install all the required imports
+
 ```
 pip install -r .\requirements.txt
 ```
 
-### 1. Run the app
+### 2. Run the app
 
 ```
 python.\main.py
 ```
 
-### 1. Test the API endpoints
+### 3. Test the API endpoints
 
 ```
 http://localhost:8000/get/basics
