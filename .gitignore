@@ -1,3 +1,2 @@
-   #.gitignore
-  /api/__pycache__/
-  /services/__pycache__/
+#.gitignore
+**/__pycache__/
