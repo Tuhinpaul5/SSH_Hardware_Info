@@ -8,7 +8,7 @@ pip install -r .\requirements.txt
 
 ```
 python.\main.py
-```
+``` 
 
 ### 3. Test the API endpoints
 
