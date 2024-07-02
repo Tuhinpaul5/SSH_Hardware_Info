@@ -12,13 +12,13 @@ username = 'ubuntu'   # Username
 password = '00'       # Your password
 ```
 
-### 2. Run the app
+### 3. Run the app
 
 ```
 python.\main.py
 ``` 
 
-### 3. Test the API endpoints
+### 4. Test the API endpoints
 
 ```
 http://localhost:8000/get/basics
