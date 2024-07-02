@@ -1,6 +1,6 @@
 import paramiko    
 
-host = '192.168.0.33' # Ip of the server
+host = '192.168.0.103' # Ip of the server
 port = 22
 username = 'ubuntu'   # Username
 password = '00'       # Password

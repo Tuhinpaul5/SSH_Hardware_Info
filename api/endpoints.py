@@ -6,6 +6,7 @@ from services.mem_info import fetch_mem
 from services.disk_info import fetch_disk
 from services.net_info import fetch_net
 from services.procs_info import fetch_procs
+from services.all_info import fetch_all
 
 router = APIRouter()
 
@@ -36,3 +37,7 @@ async def net():
 @router.get("/procs")
 async def procs():
     return {"procs": await fetch_procs()}
+
+@router.get("/all")
+async def all():
+    return {"all": await fetch_all()}
