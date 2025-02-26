@@ -1,3 +1,5 @@
+### 0. Clone the repository.
+
 ### 1. Install all the required imports
 
 ```
