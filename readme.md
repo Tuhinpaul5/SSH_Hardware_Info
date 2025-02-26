@@ -6,10 +6,10 @@ pip install -r .\requirements.txt
 ### 2. edit ssh.py file
 
 ```
-host = '192.168.0.103' # Ip of the server machine
-port = 22
-username = 'ubuntu'   # Username
-password = '00'       # Your password
+host = 'XXX.XXX.XXX.XXX' # Ip of the server machine
+port = XX
+username = 'xxxxx'   # Username
+password = 'xxxxx'       # Your password
 ```
 
 ### 3. Run the app
