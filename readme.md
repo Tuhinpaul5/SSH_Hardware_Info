@@ -1,5 +1,5 @@
 ### 0. Clone the repository.
-First clne the repository then follow the steps below to test the functionality.
+First clone the repository then follow the steps below to test the functionality.
 
 ### 1. Install all the required imports
 
