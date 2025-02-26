@@ -11,8 +11,8 @@ pip install -r .\requirements.txt
 ```
 host = 'XXX.XXX.XXX.XXX' # Ip of the server machine
 port = XX
-username = 'xxxxx'   # Username
-password = 'xxxxx'       # Your password
+username = 'xxxxx'   # SSH Username
+password = 'xxxxx'   # Your SSH password
 ```
 
 ### 3. Run the app
