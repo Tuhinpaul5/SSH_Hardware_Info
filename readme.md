@@ -1,3 +1,6 @@
+## INFO
+This project is designed to provide FastAPI endpoints that fetch hardware information of SSH servers.
+
 ### 0. Clone the repository.
 First, clone the repository then follow the steps below to test the functionality.
 
